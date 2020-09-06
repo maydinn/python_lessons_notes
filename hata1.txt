@@ -1,0 +1,5 @@
+İsim,hata
+mehmet,invalid literal for int() with base 10: 'bes'
+ali,division by zero
+ayse,unsupported operand type(s) for +: 'int' and 'str'
+can,name 'a' is not defined
